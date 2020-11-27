@@ -465,3 +465,5 @@ D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.sta
 D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\android\assets\HtmlAgilityPack.dll
 D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\android\assets\HtmlAgilityPack.pdb
+D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\res\drawable\maxresdefault.jpg
+D:\Projekty\Xam1\Xam1.Android\obj\Debug\90\res\drawable\ssps_4c_beran_s.png

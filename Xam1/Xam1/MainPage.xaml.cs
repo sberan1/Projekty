@@ -9,11 +9,24 @@ using HtmlAgilityPack;
 
 namespace Xam1
 {
+    public class NameRecord
+    {
+        public string Osloveni { get; set; }
+        public string Name { get; set; }
+    }
     public partial class MainPage : ContentPage
     {
+        private NameRecord personData;
         public MainPage()
         {
             InitializeComponent();
+            personData = new NameRecord();
+            BindingContext = personData;
+        }
+
+        private void Button_Clicked(object sender, EventArgs e)
+        {
+            Application.Current.MainPage.Navigation.PushAsync(new Pozdrav(personData));
         }
 
         //public void Parser()

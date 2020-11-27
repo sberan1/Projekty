@@ -7,18 +7,22 @@
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
             <Label Text="Welcome to Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
-        <Label Text="Start developing now" FontSize="Title" Padding="30,10,30,10"/>
-        <Label Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0"/>
-        <Label FontSize="16" Padding="30,24,30,0">
-            <Label.FormattedText>
-                <FormattedString>
-                    <FormattedString.Spans>
-                        <Span Text="Learn more at "/>
-                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold"/>
-                    </FormattedString.Spans>
-                </FormattedString>
-            </Label.FormattedText>
-        </Label>
+        <Image Source="ssps_4c_beran_s.png"  Aspect="AspectFill" HeightRequest="200"/>
+
+        <Picker Title="Vyber Osloveni" Margin="20, 20, 20, 20" SelectedItem="{Binding Osloveni}">
+            <Picker.ItemsSource>
+                <x:Array Type="{x:Type x:String}">
+                    <x:String>Pan</x:String>
+                    <x:String>Pani</x:String>
+                    <x:String>Ing.</x:String>
+                    <x:String>Prof.</x:String>
+                    <x:String>Jine</x:String>
+                </x:Array>
+            </Picker.ItemsSource>
+        </Picker>
+
+        <Entry Placeholder="Jmeno" Margin="20,20,20,20" Text="{Binding Name}"/>
+        <Button Text="Potvdit!" Clicked="Button_Clicked"/>
     </StackLayout>
 
 </ContentPage>

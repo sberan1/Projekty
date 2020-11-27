@@ -90,13 +90,16 @@
     <AndroidResource Include="Resources\mipmap-xxxhdpi\launcher_foreground.png" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Resources\drawable\" />
+    <AndroidResource Include="Resources\drawable\ssps_4C_Beran_S.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Xam1\Xam1.csproj">
       <Project>{14E456EF-F5C2-4B74-9873-646722B956DC}</Project>
       <Name>Xam1</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\maxresdefault.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
 </Project>
