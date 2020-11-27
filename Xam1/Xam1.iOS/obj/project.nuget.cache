@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fnw8VpFaJKWLgLmpo8pFdf1qzeqAnzg/7uCYpm82PAmDawpymuf4ezp+RfFxH2tSaBZ/cfFK4KmePppMLssq6A==",
+  "success": true,
+  "projectFilePath": "D:\\Projekty\\Xam1\\Xam1.iOS\\Xam1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stepa\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\stepa\\.nuget\\packages\\system.net.http\\4.3.4\\system.net.http.4.3.4.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}

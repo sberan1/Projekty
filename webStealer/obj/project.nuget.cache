@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ALqHzBLx70vPV1tCYpNw7M4N6ImY0ilqdIbB9W81fPcX37XfH2kO8yVJwcI3LT/e5jsjkk9CBxiHS/gnmyaUUA==",
+  "success": true,
+  "projectFilePath": "D:\\Projekty\\webStealer\\webStealer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stepa\\.nuget\\packages\\documentformat.openxml\\2.11.3\\documentformat.openxml.2.11.3.nupkg.sha512",
+    "C:\\Users\\stepa\\.nuget\\packages\\htmlagilitypack\\1.11.28\\htmlagilitypack.1.11.28.nupkg.sha512",
+    "C:\\Users\\stepa\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.exe
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.deps.json
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.runtimeconfig.json
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.runtimeconfig.dev.json
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.dll
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\webStealer.pdb
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.csprojAssemblyReference.cache
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.AssemblyInfoInputs.cache
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.AssemblyInfo.cs
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.dll
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.pdb
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.genruntimeconfig.cache
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.csproj.CopyComplete
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+D:\Projekty\webStealer\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+D:\Projekty\webStealer\obj\Debug\netcoreapp3.1\webStealer.csproj.CoreCompileInputs.cache
