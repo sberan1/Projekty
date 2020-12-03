@@ -11,7 +11,12 @@ namespace webStealer
     {
         static void Main(string[] args)
         {
-            GetHtmlAsync();
+            //GetHtmlAsync();
+            Console.WriteLine(1/3);
+            int k = 0;
+            int j = k++;
+            int i = j++;
+            Console.WriteLine($"{j}, {k}, {i}");
             Console.ReadLine();
         }
         private static async void GetHtmlAsync()

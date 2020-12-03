@@ -1,0 +1,15 @@
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.csprojAssemblyReference.cache
+D:\Projekty\register\register\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projekty\register\register\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projekty\register\register\obj\Debug\netstandard2.0\Pozdrav.xaml.g.cs
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.AssemblyInfoInputs.cache
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.AssemblyInfo.cs
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.csproj.CoreCompileInputs.cache
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.dll
+D:\Projekty\register\register\obj\Debug\netstandard2.0\ref\register.dll
+D:\Projekty\register\register\obj\Debug\netstandard2.0\register.pdb
+D:\Projekty\register\register\bin\Debug\netstandard2.0\register.deps.json
+D:\Projekty\register\register\bin\Debug\netstandard2.0\register.dll
+D:\Projekty\register\register\bin\Debug\netstandard2.0\ref\register.dll
+D:\Projekty\register\register\bin\Debug\netstandard2.0\register.pdb
+D:\Projekty\register\register\obj\Debug\netstandard2.0\XamlC.stamp

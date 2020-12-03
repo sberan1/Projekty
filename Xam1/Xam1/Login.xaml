@@ -1,0 +1,38 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xam1.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Login" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Image Source="ssps_4c_beran_s.png"  Aspect="AspectFill" HeightRequest="200"/>
+
+        <Entry IsPassword="False" Placeholder="Jmeno" Margin="20,20,20,20" Text="{Binding Name}"></Entry>
+
+        <Entry IsPassword="True" Placeholder="Heslo" Margin="20,20,20,20" Text="{Binding Password}"/>
+        <Button Text="Potvdit!" Clicked="Button_Clicked"/>
+    </StackLayout>
+
+</ContentPage>
+
+
+
+
+
+
+
+
+
+<!--<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xam1.Pozdrav">
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Label Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30"/>
+            <Label Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="Center" FontSize="30"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>-->
