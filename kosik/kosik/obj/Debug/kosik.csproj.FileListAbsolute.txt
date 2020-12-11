@@ -1,0 +1,10 @@
+D:\GIt\MindReader\kosik\kosik\bin\Debug\kosik.exe.config
+D:\GIt\MindReader\kosik\kosik\bin\Debug\kosik.exe
+D:\GIt\MindReader\kosik\kosik\bin\Debug\kosik.pdb
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.csprojAssemblyReference.cache
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.Form1.resources
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.Properties.Resources.resources
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.csproj.GenerateResource.cache
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.csproj.CoreCompileInputs.cache
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.exe
+D:\GIt\MindReader\kosik\kosik\obj\Debug\kosik.pdb

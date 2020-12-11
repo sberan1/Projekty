@@ -20,7 +20,7 @@ namespace JSON
 
             Person c = JsonConvert.DeserializeObject<Person>(JsonPerson);
 
-            Console.WriteLine(c.ToString());
+            Console.WriteLine(c);
 
         }
     }
@@ -31,6 +31,11 @@ namespace JSON
         public string Jmeno { get; set; }
         [JsonProperty("prijmeni")]
         public string Prijmeni { get; set; }
+
+        public override string ToString()
+        {
+            return $"{Jmeno},{Prijmeni}";
+        }
     }
 
     class Pair
