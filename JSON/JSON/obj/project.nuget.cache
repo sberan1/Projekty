@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V/FIHnf6UBlTnbvd3Lid07RGdQLVmhVHKrLiZYD9uX75AjTDEIcP9CwO0iCAFV/r98T9hNZj8iOolfFZNRW0uw==",
+  "success": true,
+  "projectFilePath": "D:\\Projekty\\JSON\\JSON\\JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stepa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
