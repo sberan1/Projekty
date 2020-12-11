@@ -18,6 +18,10 @@ namespace JSON
             Console.WriteLine(JsonPerson);
             Console.WriteLine(JsonPair);
 
+            Person c = JsonConvert.DeserializeObject<Person>(JsonPerson);
+
+            Console.WriteLine(c.ToString());
+
         }
     }
 
