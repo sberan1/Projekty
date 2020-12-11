@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Xam1.View.AManPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <Entry Placeholder="Jmeno" HorizontalOptions="CenterAndExpand" Text="{Binding FirstName}" />
+            <Entry Placeholder="Prijmeni" HorizontalOptions="CenterAndExpand" Text="{Binding Surname}"/>
+            <Entry Placeholder="Vek" HorizontalOptions="CenterAndExpand" Text="{Binding Age}"/>
+
+            <Button Text="Ulozit" VerticalOptions="End" Clicked="Save_Button_Clicked"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
