@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y2Bjz0PyR+Gv3IfWcMNdLd8GBoEaRuowcNk1RKhQUtrn+LA7uGbG6YfQ1q/BjRA9oRYZlHJJSyVB8v3CBvEnRw==",
+  "success": true,
+  "projectFilePath": "D:\\Projekty\\JSON\\HttpClient\\HttpClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stepa\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

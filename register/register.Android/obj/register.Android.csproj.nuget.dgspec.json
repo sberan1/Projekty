@@ -64,7 +64,8 @@
         "outputPath": "D:\\Projekty\\register\\register\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\stepa\\AppData\\Roaming\\NuGet\\NuGet.Config",
