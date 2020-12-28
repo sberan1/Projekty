@@ -1,0 +1,10 @@
+D:\GIt\MindReader\seznam\seznam\bin\Debug\seznam.exe.config
+D:\GIt\MindReader\seznam\seznam\bin\Debug\seznam.exe
+D:\GIt\MindReader\seznam\seznam\bin\Debug\seznam.pdb
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.csprojAssemblyReference.cache
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.Form1.resources
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.Properties.Resources.resources
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.csproj.GenerateResource.cache
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.csproj.CoreCompileInputs.cache
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.exe
+D:\GIt\MindReader\seznam\seznam\obj\Debug\seznam.pdb

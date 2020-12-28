@@ -1,0 +1,7 @@
+D:\GIt\prvniHodina\prvniHodina\bin\Debug\prvniHodina.exe.config
+D:\GIt\prvniHodina\prvniHodina\bin\Debug\prvniHodina.exe
+D:\GIt\prvniHodina\prvniHodina\bin\Debug\prvniHodina.pdb
+D:\GIt\prvniHodina\prvniHodina\obj\Debug\prvniHodina.csprojAssemblyReference.cache
+D:\GIt\prvniHodina\prvniHodina\obj\Debug\prvniHodina.csproj.CoreCompileInputs.cache
+D:\GIt\prvniHodina\prvniHodina\obj\Debug\prvniHodina.exe
+D:\GIt\prvniHodina\prvniHodina\obj\Debug\prvniHodina.pdb

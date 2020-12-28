@@ -1,0 +1,7 @@
+D:\GIt\MindReader\WordCounter\WordCounter\bin\Debug\WordCounter.exe.config
+D:\GIt\MindReader\WordCounter\WordCounter\bin\Debug\WordCounter.exe
+D:\GIt\MindReader\WordCounter\WordCounter\bin\Debug\WordCounter.pdb
+D:\GIt\MindReader\WordCounter\WordCounter\obj\Debug\WordCounter.csprojAssemblyReference.cache
+D:\GIt\MindReader\WordCounter\WordCounter\obj\Debug\WordCounter.csproj.CoreCompileInputs.cache
+D:\GIt\MindReader\WordCounter\WordCounter\obj\Debug\WordCounter.exe
+D:\GIt\MindReader\WordCounter\WordCounter\obj\Debug\WordCounter.pdb

@@ -1,0 +1,7 @@
+D:\GIt\TheFileSnitcher\TheFileSnitcher\bin\Debug\TheFileSnitcher.exe.config
+D:\GIt\TheFileSnitcher\TheFileSnitcher\bin\Debug\TheFileSnitcher.exe
+D:\GIt\TheFileSnitcher\TheFileSnitcher\bin\Debug\TheFileSnitcher.pdb
+D:\GIt\TheFileSnitcher\TheFileSnitcher\obj\Debug\TheFileSnitcher.csprojAssemblyReference.cache
+D:\GIt\TheFileSnitcher\TheFileSnitcher\obj\Debug\TheFileSnitcher.csproj.CoreCompileInputs.cache
+D:\GIt\TheFileSnitcher\TheFileSnitcher\obj\Debug\TheFileSnitcher.exe
+D:\GIt\TheFileSnitcher\TheFileSnitcher\obj\Debug\TheFileSnitcher.pdb
