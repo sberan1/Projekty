@@ -1,0 +1,15 @@
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.exe
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.csprojAssemblyReference.cache
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.AssemblyInfoInputs.cache
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.AssemblyInfo.cs
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.csproj.CoreCompileInputs.cache
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.deps.json
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.runtimeconfig.json
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.runtimeconfig.dev.json
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.dll
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Get.pdb
+D:\Projekty\Get\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.csproj.CopyComplete
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.dll
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.pdb
+D:\Projekty\Get\obj\Debug\netcoreapp3.1\Get.genruntimeconfig.cache

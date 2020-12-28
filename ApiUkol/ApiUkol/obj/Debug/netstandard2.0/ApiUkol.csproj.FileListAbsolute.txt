@@ -1,0 +1,14 @@
+D:\Projekty\ApiUkol\ApiUkol\bin\Debug\netstandard2.0\ApiUkol.deps.json
+D:\Projekty\ApiUkol\ApiUkol\bin\Debug\netstandard2.0\ApiUkol.dll
+D:\Projekty\ApiUkol\ApiUkol\bin\Debug\netstandard2.0\ref\ApiUkol.dll
+D:\Projekty\ApiUkol\ApiUkol\bin\Debug\netstandard2.0\ApiUkol.pdb
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.csprojAssemblyReference.cache
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.AssemblyInfoInputs.cache
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.AssemblyInfo.cs
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.dll
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ref\ApiUkol.dll
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.pdb
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\ApiUkol.csproj.CoreCompileInputs.cache
+D:\Projekty\ApiUkol\ApiUkol\obj\Debug\netstandard2.0\XamlC.stamp

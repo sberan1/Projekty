@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApiUkol.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#394a5a" CornerRadius="0">
+            <Label HorizontalOptions="EndAndExpand" Text="A picture of the day" FontSize="20"/>
+        </Frame>
+        <ListView ItemsSource="{Binding ObrazkyList}"/>
+    </StackLayout>
+
+</ContentPage>
