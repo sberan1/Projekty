@@ -1,0 +1,15 @@
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.exe
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csprojAssemblyReference.cache
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.AssemblyInfoInputs.cache
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.AssemblyInfo.cs
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csproj.CoreCompileInputs.cache
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.deps.json
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.runtimeconfig.json
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.runtimeconfig.dev.json
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.dll
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\HttpClient.pdb
+D:\Projekty\JSON\HttpClient\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.csproj.CopyComplete
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.dll
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.pdb
+D:\Projekty\JSON\HttpClient\obj\Debug\netcoreapp3.1\HttpClient.genruntimeconfig.cache
