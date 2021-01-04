@@ -20,37 +20,42 @@ namespace ApiUkol
         public async Task GetFromAPI()
         {
             HttpClient http = new HttpClient();
-            try
-            {
+            
                 for (int i = 0; i < 20; i++)
+                {
+                try
                 {
                     DateTime now = DateTime.Now;
                     string url = "https://api.nasa.gov/planetary/apod?api_key=XFq4TltKnfiWzSEqSKNz5vky7f8XY4IPKXnzCjpz&date=" + now.AddDays(-i).ToString("yyyy-M-dd");
                     HttpResponseMessage response = await http.GetAsync(url, HttpCompletionOption.ResponseContentRead);
                     string res = await response.Content.ReadAsStringAsync();
                     JObject jo = JObject.Parse(res);
-
-
-                    ObrazkyList.Add(new Obrazky
+                                        
+                        ObrazkyList.Add(new Obrazky
+                        {
+                            Title = jo["title"].ToString(),
+                            Explanation = jo["explanation"].ToString(),
+                            HdUrl = jo["url"].ToString(),
+                            Author = jo["copyright"].ToString()
+                        });
+                    }
+                    catch (NullReferenceException)
                     {
-                        Title = jo["title"].ToString(),
-                        Explanation = jo["explanation"].ToString(),
-                        HdUrl = jo["hdurl"].ToString(),
-                        Author = jo["copyright"].ToString()
-                    });
-                }
-            }
-            catch (HttpRequestException ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
-        }
-            public MainPage()
-        {
-            GetFromAPI();
-            InitializeComponent();
-            
 
+                    }
+                    catch (HttpRequestException ex)
+                    {
+                    Console.WriteLine(ex.Message);
+                    }
+                InitializeComponent();
+            }
+
+
+        }
+        public MainPage()
+        {
+            ObrazkyList = new List<Obrazky>();
+            _ = GetFromAPI();
 
             BindingContext = this;
         }

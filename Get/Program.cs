@@ -20,7 +20,7 @@ namespace Get
             HttpClient http = new HttpClient();
             try
             {
-                for (int i = 1; i < 20; i++)
+                for (int i = 0; i < 20; i++)
                 {
                     DateTime now = DateTime.Now;
                     string url = "https://api.nasa.gov/planetary/apod?api_key=XFq4TltKnfiWzSEqSKNz5vky7f8XY4IPKXnzCjpz&date=" + now.AddDays(-i).ToString("yyyy-M-dd");
@@ -29,8 +29,9 @@ namespace Get
                     JObject jo = JObject.Parse(res);
 
 
-                    Console.WriteLine(jo["title"].ToString());
-
+                    Console.WriteLine
+                    ("{0}", jo["url"].ToString());
+                    //jo["title"].ToString(), jo["explanation"].ToString(), jo["copyright"].ToString()
                 }
             }
             catch (HttpRequestException ex)
