@@ -1,0 +1,23 @@
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ApiUkol.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#394a5a" CornerRadius="0">
+            <Label HorizontalOptions="EndAndExpand" Text="A picture of the day" FontSize="20"/>
+        </Frame>
+        <ListView ItemsSource="{Binding ObrazkyList}" HasUnevenRows="True" ItemTapped="ListView_ItemTapped">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <Image Grid.RowSpan="2"
+                           Source="{Binding HdUrl}"
+                           Aspect="AspectFill"  
+                           HeightRequest="250" />
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,10 @@
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\build.props
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\adb.props
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\ApiUkolv2.Android.csprojAssemblyReference.cache
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\_VerifyXamarinAndroidSupportVersions.stamp
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\res.flag
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\R.txt
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\R.cs.flag
+D:\Projekty\ApiUkolv2\ApiUkolv2.Android\obj\Debug\90\ApiUkolv2.Android.csproj.CoreCompileInputs.cache
