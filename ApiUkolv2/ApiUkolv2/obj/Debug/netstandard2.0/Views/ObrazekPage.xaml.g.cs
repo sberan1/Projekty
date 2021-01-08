@@ -8,17 +8,17 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ApiUkolv2.Views.ObrazekPage.xaml", "Views/ObrazekPage.xaml", typeof(global::ApiUkolv2.Views.jednotlive_Obrazky))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ApiUkolv2.Views.ObrazekPage.xaml", "Views/ObrazekPage.xaml", typeof(global::ApiUkolv2.Views.ObrazekPage))]
 
 namespace ApiUkolv2.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\ObrazekPage.xaml")]
-    public partial class jednotlive_Obrazky : global::Xamarin.Forms.ContentPage {
+    public partial class ObrazekPage : global::Xamarin.Forms.ContentPage {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
         private void InitializeComponent() {
-            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(jednotlive_Obrazky));
+            global::Xamarin.Forms.Xaml.Extensions.LoadFromXaml(this, typeof(ObrazekPage));
         }
     }
 }

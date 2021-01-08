@@ -20,7 +20,7 @@ namespace ApiUkolv2.Views
         }
         void Item_Tapped_Handler(object sender, ItemTappedEventArgs e)
         {
-            Page p = new jednotlive_Obrazky((BindingContext as PictureLoading).ObrazkyList);
+            Page p = new ObrazekPage((BindingContext as PictureLoading).ObrazkyList);
             NavigationPage np = new NavigationPage(p);
             Application.Current.MainPage.Navigation.PushAsync(np);
         }

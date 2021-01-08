@@ -1,0 +1,15 @@
+﻿<Window x:Class="DemoNaProgramko.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoNaProgramko"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <Button Content="Moc Prace" Click="Button_Click_Prace"/>
+        <TextBox x:Name="MocPraceText" Text="{Binding Counter}"/>
+        <Button Content="Vrt" Click="Button_Click_Vrtet"/>
+        <TextBox x:Name="VrtetClick" Text="{Binding Vrtule}"/>
+    </StackPanel>
+</Window>

@@ -16,14 +16,14 @@ using Xamarin.Forms.Xaml;
 namespace ApiUkolv2.Views
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class jednotlive_Obrazky : ContentPage
+    public partial class ObrazekPage : ContentPage
     {
-        public jednotlive_Obrazky()
+        public ObrazekPage()
         {
             InitializeComponent();
 
         }
-        public jednotlive_Obrazky(ObservableCollection<Obrazky> obrKolekce)
+        public ObrazekPage(ObservableCollection<Obrazky> obrKolekce)
         {
             InitializeComponent();
             BindingContext = obrKolekce;
