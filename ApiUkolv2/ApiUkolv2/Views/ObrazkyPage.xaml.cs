@@ -16,15 +16,17 @@ namespace ApiUkolv2.Views
         PictureLoading obrazky = new PictureLoading();
         public ObrazkyPage()
         {
+            var d = DisplayAlert("Error", "There seems to be an error, please check your internet connection.", "OK"); ;
             InitializeComponent();
-            _ = obrazky.GetFromAPI();
+            _ = obrazky.GetFromAPI(d);
             BindingContext = obrazky;
         }
         void Item_Tapped_Handler(object sender, ItemTappedEventArgs e)
         {
-            Page p = new ObrazekPage((BindingContext as PictureLoading).ObrazkyList);
+            Page p = new ObrazekPage(e.Item as Obrazky);
             NavigationPage np = new NavigationPage(p);
             Application.Current.MainPage.Navigation.PushAsync(np);
+           
         }
     }
 }

@@ -23,10 +23,10 @@ namespace ApiUkolv2.Views
             InitializeComponent();
 
         }
-        public ObrazekPage(ObservableCollection<Obrazky> obrKolekce)
+        public ObrazekPage(Obrazky vybranyObrazek)
         {
             InitializeComponent();
-            BindingContext = obrKolekce;
+            BindingContext = vybranyObrazek;
         }
     }
 }

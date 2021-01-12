@@ -10,6 +10,7 @@
       "ApiUkolv2/1.0.0": {
         "dependencies": {
           "Microsoft.AppCenter": "4.1.0",
+          "Microsoft.AppCenter.Analytics": "4.1.0",
           "Microsoft.AppCenter.Crashes": "4.1.0",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3",
@@ -23,6 +24,17 @@
       "Microsoft.AppCenter/4.1.0": {
         "runtime": {
           "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Analytics/4.1.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Analytics.dll": {
             "assemblyVersion": "0.0.0.0",
             "fileVersion": "4.1.0.0"
           }
@@ -102,6 +114,13 @@
       "sha512": "sha512-Iyv7iKKkRO6HOWy/HDTklunw0WcjCRNUVwhO3wNaMw09tSd6pGyb5E8jskLD9B6xRsk5UrIbEidhdTkcUXTuPg==",
       "path": "microsoft.appcenter/4.1.0",
       "hashPath": "microsoft.appcenter.4.1.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Analytics/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-fKAK9Ub2xU+ynGUgVXPMzFbKkIA2p+jCSaCxB4yfcJ2xfg/UQGyUmE0mBgtaQSgFDmzt3zMeL0re61SNd4+cDg==",
+      "path": "microsoft.appcenter.analytics/4.1.0",
+      "hashPath": "microsoft.appcenter.analytics.4.1.0.nupkg.sha512"
     },
     "Microsoft.AppCenter.Crashes/4.1.0": {
       "type": "package",

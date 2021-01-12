@@ -19,10 +19,10 @@ namespace ApiUkolv2.Model
         public PictureLoading()
         {
             ObrazkyList = new ObservableCollection<Obrazky>();
-            _ = GetFromAPI();
+            
 
         }
-        public async Task GetFromAPI()
+        public async Task GetFromAPI(Task errorMessage)
         {
             HttpClient http = new HttpClient();
 
@@ -50,7 +50,7 @@ namespace ApiUkolv2.Model
                 }
                 catch (HttpRequestException)
                 {
-                   // DisplayAlert("Error", "There seems to be an error, please check your internet connection.", "OK");
+                    await errorMessage;
                 }
                 
             }
