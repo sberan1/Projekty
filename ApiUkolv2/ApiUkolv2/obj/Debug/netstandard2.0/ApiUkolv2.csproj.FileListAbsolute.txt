@@ -11,3 +11,6 @@ D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.csproj.CoreCo
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.dll
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ref\ApiUkolv2.dll
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.pdb
+D:\Projekty\ApiUkolv2\ApiUkolv2\bin\Debug\netstandard2.0\ref\ApiUkolv2.dll
+D:\Projekty\ApiUkolv2\ApiUkolv2\bin\Debug\netstandard2.0\ApiUkolv2.pdb
+D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\XamlC.stamp

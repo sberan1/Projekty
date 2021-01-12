@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ApiUkolv2.Model;
+
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using ApiUkolv2.Model;
 
 namespace ApiUkolv2.Views
 {
@@ -15,6 +16,7 @@ namespace ApiUkolv2.Views
         PictureLoading obrazky = new PictureLoading();
         public ObrazkyPage()
         {
+            InitializeComponent();
             _ = obrazky.GetFromAPI();
             BindingContext = obrazky;
         }

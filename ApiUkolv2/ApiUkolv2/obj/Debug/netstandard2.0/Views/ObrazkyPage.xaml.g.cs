@@ -8,9 +8,9 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ApiUkolv2.Views.ObrazkyPage.xaml", "Views/ObrazkyPage.xaml", typeof(global::ApiUkolv2.ObrazkyPage))]
+[assembly: global::Xamarin.Forms.Xaml.XamlResourceIdAttribute("ApiUkolv2.Views.ObrazkyPage.xaml", "Views/ObrazkyPage.xaml", typeof(global::ApiUkolv2.Views.ObrazkyPage))]
 
-namespace ApiUkolv2 {
+namespace ApiUkolv2.Views {
     
     
     [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("Views\\ObrazkyPage.xaml")]
