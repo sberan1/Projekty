@@ -9,6 +9,8 @@
     ".NETStandard,Version=v2.0/": {
       "ApiUkolv2/1.0.0": {
         "dependencies": {
+          "Microsoft.AppCenter": "4.1.0",
+          "Microsoft.AppCenter.Crashes": "4.1.0",
           "NETStandard.Library": "2.0.3",
           "Newtonsoft.Json": "12.0.3",
           "Xamarin.Essentials": "1.5.3.2",
@@ -16,6 +18,25 @@
         },
         "runtime": {
           "ApiUkolv2.dll": {}
+        }
+      },
+      "Microsoft.AppCenter/4.1.0": {
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.1.0.0"
+          }
+        }
+      },
+      "Microsoft.AppCenter.Crashes/4.1.0": {
+        "dependencies": {
+          "Microsoft.AppCenter": "4.1.0"
+        },
+        "runtime": {
+          "lib/netstandard1.0/Microsoft.AppCenter.Crashes.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "4.1.0.0"
+          }
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
@@ -74,6 +95,20 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.AppCenter/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Iyv7iKKkRO6HOWy/HDTklunw0WcjCRNUVwhO3wNaMw09tSd6pGyb5E8jskLD9B6xRsk5UrIbEidhdTkcUXTuPg==",
+      "path": "microsoft.appcenter/4.1.0",
+      "hashPath": "microsoft.appcenter.4.1.0.nupkg.sha512"
+    },
+    "Microsoft.AppCenter.Crashes/4.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-8lftsl6+3mALI8KUrwnzasl8rsIOtkj7WyaxX6+uggtgoPhyLhU6V9ECT07LL3b3HlqcZORDO3iWq5i666Wtiw==",
+      "path": "microsoft.appcenter.crashes/4.1.0",
+      "hashPath": "microsoft.appcenter.crashes.4.1.0.nupkg.sha512"
     },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "type": "package",

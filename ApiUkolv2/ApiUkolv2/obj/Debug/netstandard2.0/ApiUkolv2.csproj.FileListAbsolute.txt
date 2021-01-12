@@ -7,10 +7,9 @@ D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\Views\ObrazekPage.xaml.
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\Views\ObrazkyPage.xaml.g.cs
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.AssemblyInfoInputs.cache
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.AssemblyInfo.cs
-D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.csproj.CoreCompileInputs.cache
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.dll
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ref\ApiUkolv2.dll
 D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.pdb
 D:\Projekty\ApiUkolv2\ApiUkolv2\bin\Debug\netstandard2.0\ref\ApiUkolv2.dll
 D:\Projekty\ApiUkolv2\ApiUkolv2\bin\Debug\netstandard2.0\ApiUkolv2.pdb
-D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projekty\ApiUkolv2\ApiUkolv2\obj\Debug\netstandard2.0\ApiUkolv2.csproj.CoreCompileInputs.cache
